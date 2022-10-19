@@ -4,5 +4,13 @@ body {  /* referenced code from: How to Create Striped Backgrounds with CSS  by 
   }
 
 h1,h2{
+    color: #FFFFFF;
     font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 1em 0;
+    display: block;
 }
