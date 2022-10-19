@@ -1,0 +1,8 @@
+body {  /* referenced code from: How to Create Striped Backgrounds with CSS  by Shounak Das */ 
+    height: 100vh;
+    background: repeating-linear-gradient(to right, #FF3131 0px, #FF3131 20px, #FAA0A0 20px, #FAA0A0 40px); /*neon red and pastel red */
+  }
+
+h1,h2{
+    font-family: 'Courier New', Courier, monospace;
+}
